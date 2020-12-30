@@ -10,4 +10,4 @@
 #### Third: start terminal _in linux_ or cmd _in windows_ and then go to directory that you clone my repo and type:
 `python3 BasicCommands.py`
 
-![image](img/BasicCommands.png)
+![image](img/BasicCommand.png)
