@@ -1,6 +1,6 @@
 # [Git Commands](https://github.com/AmirHosein-Vahed/Git_Commands)
 -----------------------------------------------------------------------------
-#### * This repo is for whom want to _start_ with git :)
+#### * This repo is for whom want to _start_ git :)
 #### * Knowledge is accessible from everywhere :)
 ------------------------------------------------------------------------------
 ### to run BasicCommands.py
