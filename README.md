@@ -1,4 +1,4 @@
-# -[Git Basic Commands](https://github.com/AmirHosein-Vahed/Git_Commands)
+# [Git Basic Commands](https://github.com/AmirHosein-Vahed/Git_Commands)
 
 #### This repo is for whom want to _start_ with git :)
 #### Knowledge is accessible from everywhere :)
@@ -10,4 +10,4 @@
 #### third: start terminal _in linux_ or cmd _in windows_ and then go to directory that you clone my repo and type:
 `python3 BasicCommands.py`
 
-![image](BasicCommands.png)
+![image](img/BasicCommands.png)
