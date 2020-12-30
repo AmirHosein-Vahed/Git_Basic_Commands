@@ -19,4 +19,5 @@
 | `git show id` | Show the log if id place. |
 | `git tag -a v2` | Taging the version of repo. |
 
-#### by AH_VAHED :) 
+by [AH_VAHED](https://github.com/AmirHosein-Vahed) :)
+
